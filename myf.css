@@ -54,6 +54,7 @@ nav { display: flex; align-items: center; justify-content: center; gap: 16px; pa
     cursor: pointer;
     text-align: center;
     display: inline-block;
+    height: 40px;
 }
 .btn-small { width: 100px; }
 .btn-normal { width: 150px; }
