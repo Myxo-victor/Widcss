@@ -71,7 +71,6 @@ nav { display: flex; align-items: center; justify-content: center; gap: 16px; pa
 
 /* --- IMAGES --- */
 .img-normal { width: 100%; max-width: 300px; height: auto; border-radius: 10px; }
-.hero-img { width: 100%; height: 400px; object-fit: cover; border-radius: 15px; }
 
 /* --- CARDS --- */
 .card {
